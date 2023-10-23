@@ -8,7 +8,7 @@
 
 ## Partager votre exercice
 1. Sélectionnez le dépôt en fonction du canal de votre exercice :
-   - <a href="https://github.com/CoursTD/c-fundamentals" target="_blank">C Fundamentals</a>
+   - <a href="https://github.com/CoursTD/c-fundamentals" target="_BLANK">C Fundamentals</a>
 2. Sélectionnez le bouton vert <img alt="**Code**" src="https://cdn.discordapp.com/attachments/1012372287640567948/1166035471361642586/image.png?ex=65490628&is=65369128&hm=a9042bc9a298e8a8b64e7306e078edaaaa57bf33008f45f3ebbc5270af337010&" width="75px"/> et copiez l'URL (exemple: https://github.com/CoursTD/c-fundamentals.git)
 3. Dirigez-vous dans le répertoire où vous désirez mettre vos cours/exercices et faites **clic droit > ouvrir dans le terminal**
 4. Dans le terminal, executez `git clone coller-url` en remplaçant par l'URL précédemment copiée
