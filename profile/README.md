@@ -12,10 +12,11 @@
 2. Sélectionnez le bouton vert <img alt="**Code**" src="https://cdn.discordapp.com/attachments/1012372287640567948/1166035471361642586/image.png?ex=65490628&is=65369128&hm=a9042bc9a298e8a8b64e7306e078edaaaa57bf33008f45f3ebbc5270af337010&" width="75px"/> et copiez l'URL (exemple: https://github.com/CoursTD/c-fundamentals.git)
 3. Dirigez-vous dans le répertoire où vous désirez mettre vos cours/exercices et faites **clic droit > ouvrir dans le terminal**
 4. Dans le terminal, executez `git clone coller-url` en remplaçant par l'URL précédemment copiée
-5. Executez la commande `git checkout nomPrenom` en remplaçant par votre nom et votre prénom
-6. Ensuite, ouvrez le dossier et vous pouvez mettre vos exercices (vous pouvez ouvrir le dossier dans votre IDE sans soucis)
+5. Créez une nouvelle branche à votre nom avec `git branch nomPrenom` en remplaçant par votre nom et votre prénom
+6. Executez la commande `git checkout nomPrenom` en remplaçant par votre nom et votre prénom pour focus cette branche et travailler dessus
+7. Ensuite, ouvrez le dossier et vous pouvez mettre vos exercices (vous pouvez ouvrir le dossier dans votre IDE sans soucis)
    - Vous pouvez soit copier/coller vos programmes dans le `main.c`, soit les faire directement dedans, soit remplacer le `main.c` par votre fichier `main.c`
-7. Ensuite, vous pouvez partager vos modifications en effectuant la suite de commandes ci-dessous :
+8. Ensuite, vous pouvez partager vos modifications en effectuant la suite de commandes ci-dessous :
    - `git add .`
    - `git commit -m "Voici mon exercice"`
    - `git push origin nomPrenom` (en remplaçant par votre nom et votre prénom)
